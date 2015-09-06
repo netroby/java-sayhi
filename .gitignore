@@ -1,0 +1,6 @@
+bazel-bin
+bazel-bin
+bazel-genfiles
+bazel-java-sayhi
+bazel-out
+bazel-testlogs
